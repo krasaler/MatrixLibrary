@@ -1,0 +1,11 @@
+c:\users\александр\documents\visual studio 2013\Projects\Matrix\Matrix\obj\Debug\MatrixLibrary.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2013\Projects\Matrix\Matrix\bin\Debug\Matrix.dll
+c:\users\александр\documents\visual studio 2013\Projects\Matrix\Matrix\bin\Debug\Matrix.pdb
+c:\users\александр\documents\visual studio 2013\Projects\Matrix\Matrix\obj\Debug\Matrix.dll
+c:\users\александр\documents\visual studio 2013\Projects\Matrix\Matrix\obj\Debug\Matrix.pdb
+D:\MatrixLibrary\MatrixLibrary\bin\Debug\MatrixLibrary.dll
+D:\MatrixLibrary\MatrixLibrary\bin\Debug\MatrixLibrary.pdb
+D:\MatrixLibrary\MatrixLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\MatrixLibrary\MatrixLibrary\obj\Debug\MatrixLibrary.dll
+D:\MatrixLibrary\MatrixLibrary\obj\Debug\MatrixLibrary.pdb
+D:\Рабочие файлы\Разработка\Проекты\C#\MatrixLibrary\MatrixLibrary\obj\Debug\MatrixLibrary.csprojResolveAssemblyReference.cache

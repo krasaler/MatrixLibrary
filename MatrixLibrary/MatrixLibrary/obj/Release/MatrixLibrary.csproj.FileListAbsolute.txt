@@ -1,0 +1,8 @@
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Matrix\Matrix\bin\Release\MatrixLibrary.dll
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Matrix\Matrix\bin\Release\MatrixLibrary.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Matrix\Matrix\obj\Release\MatrixLibrary.dll
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Matrix\Matrix\obj\Release\MatrixLibrary.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\MatrixLibrary\MatrixLibrary\bin\Release\MatrixLibrary.dll
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\MatrixLibrary\MatrixLibrary\bin\Release\MatrixLibrary.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\MatrixLibrary\MatrixLibrary\obj\Release\MatrixLibrary.dll
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\MatrixLibrary\MatrixLibrary\obj\Release\MatrixLibrary.pdb
